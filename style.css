@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+}
+
+#about {
+
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.img1 {
+    height: 200px;
+}
+
+.row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+
+    width: 200%;
+}
+
+.travel_mainDiv hr {
+
+    width: 100%;
+}
+
+.travel_mainDiv p,
+.travel_mainDiv h5 {
+
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#imgchurch {
+    height: 200px;
+}
+
+#acheivementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head  {
+ font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span {
+    color: #ff7700;
+}
